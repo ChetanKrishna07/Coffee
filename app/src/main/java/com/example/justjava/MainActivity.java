@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
 
          if(Chocolate){
 
-             price += 2*quantity;
+             price += 3*quantity;
         }
 
         return price;
